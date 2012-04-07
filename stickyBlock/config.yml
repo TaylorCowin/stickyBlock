@@ -1,0 +1,7 @@
+name: stickyBlock
+main: com.github.haxxed.stickyBlock.stickyBlock
+version: 0.1
+commands:
+    stick:
+        description: Makes a block sticky!
+        usage: /<command>
